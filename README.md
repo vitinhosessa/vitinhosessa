@@ -15,6 +15,7 @@
 ![](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
 ![](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![](https://img.shields.io/badge/CI/CD-F7D800?style=flat&logo=fujitsu&logoColor=black)
+![](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 ![](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
 
