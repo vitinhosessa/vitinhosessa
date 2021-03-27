@@ -14,6 +14,8 @@
 ![](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
+![](https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON-Web-Tokens&logoColor=white)
+![](https://img.shields.io/badge/bcrypt-799a5d?style=flat&logo=1password&logoColor=white)
 ![](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![](https://img.shields.io/badge/CI/CD-F7D800?style=flat&logo=fujitsu&logoColor=black)
 ![](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
