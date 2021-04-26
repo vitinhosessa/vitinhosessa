@@ -1,5 +1,5 @@
 ### Cursos que estou fazendo no momento :)
-<img src="https://cdn-images-1.medium.com/max/1200/1*TkXVfLTwsHdwpUEjGzdi9w.jpeg" width="32" height="32"> Rocketseat Ignite Node.js 2021
+<img src="https://cdn-images-1.medium.com/max/1200/1*TkXVfLTwsHdwpUEjGzdi9w.jpeg" width="32" height="32"> Rocketseat Ignite Node.js e ReactJS 2021
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitinhosessa&bg_color=0d1117&text_color=FFFFFF&title_color=FFFFFF&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -27,3 +27,4 @@
 ### Contato
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/victorabr/)
 
+ 
