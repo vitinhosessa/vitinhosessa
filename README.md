@@ -26,18 +26,5 @@
 ![](https://img.shields.io/badge/CI/CD-F7D800?style=flat&logo=fujitsu&logoColor=black)
 ![](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 
-#### Front-end
-![](https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=React&logoColor=black)
-![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white)
-
-#### Mobile
-![](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=React&logoColor=black)
-![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Styled_Components-fca9c4?style=flat&logo=styled-components&logoColor=black)
-![](https://img.shields.io/badge/Expo-000020?style=flat&logo=Expo&logoColor=white)
-
 ### Contato
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/victorabr/)
-
- 
